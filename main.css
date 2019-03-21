@@ -27,12 +27,14 @@ body {
     position: relative;
     top: calc(100vh - 72vh);
     text-align: center;
+    color: #2c2b2e;
 }
 
 #profile-pic {
     height: 300px;
     width: 300px;
     border-radius: 300px;
+    border: solid 1px #cecccc;
 }
 
 #profile-name {
