@@ -28,10 +28,10 @@ body {
     position: relative;
     top: 70vh;
     display: inline-block;
-    font-size: 50px;
+    font-size: 100px;
     font-weight: bolder;
-    font-family: 'Kanit', sans-serif;
-    /* font-family: 'Squada One', cursive; */
+    /* font-family: 'Kanit', sans-serif; */
+    font-family: 'Squada One', cursive;
 }
 
 #firstname,
