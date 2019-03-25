@@ -21,28 +21,18 @@ body {
     background-size: 100vw auto;
 }
 
-#name1,
-#name4,
-#name5,
-#name6,
-#name7,
-#name8 {
+#name {
     width: 100vw;
     height: 50px;
     /* background-color: red; */
     position: relative;
-    /* top: 70vh; */
+    top: 70vh;
     display: inline-block;
     font-size: 50px;
     font-weight: bolder;
+    font-family: 'Kanit', sans-serif;
+    /* font-family: 'Squada One', cursive; */
 }
-
-#name1 { font-family: 'Catamaran', sans-serif; }
-#name4 { font-family: 'Kanit', sans-serif; }
-#name5 { font-family: 'Fredoka One', cursive; }
-#name6 { font-family: 'Fugaz One', cursive; }
-#name7 { font-family: 'Squada One', cursive; }
-#name8 { font-family: 'Bungee', cursive; }
 
 #firstname,
 #lastname {
